@@ -15,7 +15,7 @@ API Gateway **accepts API** calls from the client application and **forwarding**
   - Load balancing 
   - SSL termination
 
-### `Message Queue / Message Bus`
+### `Message Queue (Kafka, RabitMQ) / Message Bus`
 
 
 ### `Cache data`
