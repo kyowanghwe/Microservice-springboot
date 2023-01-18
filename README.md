@@ -18,4 +18,4 @@ API Gateway **accepts API** calls from the client application and **forwarding**
 ### `Message Queue (Kafka, RabitMQ) / Message Bus`
 
 
-### `Cache data`
+### `Cache data(Redis)`
