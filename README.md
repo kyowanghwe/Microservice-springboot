@@ -7,6 +7,8 @@ Because The number of instances of a service and its locations **changes dynamic
 Discovery Server will fetch all host address and port of service client registered
 
 ### `API Gateway`
+API Gateway accepts API calls from the client application, forwarding this traffic to the appropriate service
+
   - Routing based on Request Header
   - Authentication 
   - Security
