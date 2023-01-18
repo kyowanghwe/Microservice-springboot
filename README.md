@@ -16,6 +16,6 @@ API Gateway **accepts API** calls from the client application and **forwarding**
   - SSL termination
 
 ### `Message Queue (Kafka, RabitMQ) / Message Bus`
- - A Message Bus is a messaging infrastructure to allow different systems to communicate through a shared set of interfaces
+ - A **Message Bus** is a messaging infrastructure to allow different systems to communicate through a shared set of interfaces
 
 ### `Cache data(Redis)`
