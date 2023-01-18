@@ -1,0 +1,8 @@
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\controller\OrderController.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\repository\OrderRepository.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\model\OrderLineItems.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\OrderServiceApplication.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\model\Order.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\dto\OrderLineItemsDto.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\dto\OrderRequest.java
+C:\Users\Huykq\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\microservices-new\microservices-new\order-service\src\main\java\com\web\orderservice\service\OrderService.java
