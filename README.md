@@ -16,7 +16,6 @@ Discovery Server will fetch all host address and port of service client register
 
 ### `API Gateway`
 API Gateway **accepts API** calls from the client application and **forwarding** this traffic to the appropriate service
-
   - Routing based on Request Header
   - Authentication 
   - Security
