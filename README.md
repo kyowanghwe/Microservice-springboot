@@ -41,7 +41,7 @@ A **Message Bus** allows for multiple subscribers whereas a **Queue** will deque
 
 | Microservices | Monolithic Architecture |
 | --- | --- |
-| Service Startup is `fast` | Service startup **takes time** | 
+| Service Startup is `fast` | Service startup `takes time` | 
 | Microservices are **loosely coupled** architecture | Monolithic architecture is **tightly coupled** architecture |
 | Changes done in a single data model does not affect other Microservices | Any changes in the data model affect the entire database |
 | It mainly focuses on **products**, not projects | It mainly focuses on the **whole project** |
