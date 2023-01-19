@@ -26,7 +26,7 @@ API Gateway **accepts API** calls from the client application and **forwarding**
 https://stackoverflow.com/questions/7793927/message-queue-vs-message-bus-what-are-the-differences
  - A **Message Bus** is a messaging infrastructure to allow different systems to communicate through a shared set of interfaces
 
-The basic idea of a message queue is a simple one:
+The basic idea of a **Message Queue** is a simple one:
   - Two (or more) processes can exchange information via access to a common system message queue.
   - The sending process places via some (OS) message-passing module a message onto a queue which can be read by another process
 
