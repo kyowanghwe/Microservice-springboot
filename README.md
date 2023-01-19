@@ -36,11 +36,12 @@ A **Message Bus** allows for multiple subscribers whereas a **Queue** will deque
 
 
 ### `Differences between Microservices and Monolithic`
-Monolithic architecture is like a big container that contains all the software components of an application. These applications are clubbed inside a single package within the application.
+**Monolithic architecture** is like a big container that contains all the software components of an application. These applications are clubbed inside a single package within the application.
+**Microservice Architecture** is an architectural development style which builds an application as a collection of small autonomous services developed for a business domain.
 
 | Microservices | Monolithic Architecture |
 | --- | --- |
-| Service Startup is **fast** | Service startup **takes time** | 
+| Service Startup is `fast` | Service startup **takes time** | 
 | Microservices are **loosely coupled** architecture | Monolithic architecture is **tightly coupled** architecture |
 | Changes done in a single data model does not affect other Microservices | Any changes in the data model affect the entire database |
 | It mainly focuses on **products**, not projects | It mainly focuses on the **whole project** |
