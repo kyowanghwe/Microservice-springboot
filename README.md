@@ -33,3 +33,14 @@ The basic idea of a **Message Queue** is a simple one:
 
 A **Message Bus** allows for multiple subscribers whereas a **Queue** will dequeue items one by one to anything listening to the queue.
 ### `Cache data(Redis)`
+
+
+### `Differences between Microservices and Monolithic`
+Monolithic architecture is like a big container that contains all the software components of an application. These applications are clubbed inside a single package within the application.
+
+| Microservices | Monolithic Architecture |
+| --- | --- |
+| Service Startup is fast | Service startup takes time | 
+| Microservices are loosely coupled architecture | Monolithic architecture is tightly coupled architecture |
+| Changes done in a single data model does not affect other Microservices | Any changes in the data model affect the entire database |
+| It mainly focuses on products, not projects | It mainly focuses on the whole project |
