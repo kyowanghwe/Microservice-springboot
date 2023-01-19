@@ -3,6 +3,11 @@ https://www.youtube.com/watch?v=lh1oQHXVSc0
 
 ### `What is MicroService`
 Microservice Architecture is an architectural development style which builds an application as a collection of small autonomous services developed for a business domain.
+  - Distributed and loosely coupled
+  - Highly maintainable and testable
+  - Independently deployable
+  - Organized around business capabilities
+  - Managed by a small team
 
 ### `Discovery Service`
 Because The number of instances of a service and its locations **changes dynamically**. We need to know where these instances are and their names to allow requests to arrive at the target microservice. The Service Discovery mechanism helps us know where each instance is located.
