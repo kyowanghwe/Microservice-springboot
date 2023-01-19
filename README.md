@@ -1,7 +1,7 @@
 # Microservice-springboot
 https://www.youtube.com/watch?v=lh1oQHXVSc0
 
-### `What is  MicroService`
+### `What is MicroService`
 Microservice Architecture is an architectural development style which builds an application as a collection of small autonomous services developed for a business domain.
 
 ### `Discovery Service`
